@@ -1,0 +1,25 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "express boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jimbojones1/Express-boilerplate.git"
+  },
+  "author": "Jim Haff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jimbojones1/Express-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Jimbojones1/Express-boilerplate#readme",
+  "devDependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "fs": "0.0.2",
+    "http": "0.0.0"
+  }
+}
